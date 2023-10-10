@@ -1,2 +1,2 @@
 # fictional-fiesta
-Тестування сайту Sweli
+Тестування сайту Sweli.com
